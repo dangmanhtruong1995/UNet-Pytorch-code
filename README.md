@@ -1,7 +1,7 @@
 # UNet-Pytorch
 UNet code in Pytorch. I downloaded the data from here: https://github.com/hoangp/isbi-datasets 
 The code is slightly different from the UNet paper since I used padding to keep the sizes to be the same.
-I also used dropout after ReLU layers. 
+I also used dropout after ReLU layers. The code was run using Google Colab and Kaggle notebook.
 
 ![](https://user-images.githubusercontent.com/20016033/200164213-9113a2f1-ff73-4d49-afa8-1b9b9e2af816.png?raw=true "")
 
